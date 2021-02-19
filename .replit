@@ -1,0 +1,2 @@
+run = "python ln_x/ln_Taylor.py"
+language = "bash" # optional
